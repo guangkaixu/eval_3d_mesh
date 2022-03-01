@@ -1,3 +1,9 @@
+'''
+The evaluation code is modified from two github repos:
+1. https://github.com/autonomousvision/convolutional_occupancy_networks/blob/f15b97da2c5995598537c8f832e52e95c0b09236/src/eval.py
+2. https://github.com/nihalsid/retrieval-fuse/blob/main/util/mesh_metrics.py
+'''
+
 import logging
 import numpy as np
 import trimesh
